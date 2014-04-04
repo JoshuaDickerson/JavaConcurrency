@@ -25,6 +25,9 @@
         <module name="scratchpad-maven" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="scratchpad-maven" target="1.6" />
+    </bytecodeTargetLevel>
   </component>
 </project>
 
